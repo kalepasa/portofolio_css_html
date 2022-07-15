@@ -1,0 +1,59 @@
+#kotak_tengah {
+  background-color: white;
+  width: 900px;
+  height: 850px;
+  margin-top: 10px;
+  margin-left: 300px;
+  margin-bottom: 10px;
+}
+
+#profil {
+  height: 400px;
+  width: 250px;
+  margin-top: 30px;
+  margin-left: 80px;
+}
+
+#nama {
+  margin-left: 400px;
+  margin-top: -300px;
+}
+
+#title {
+  margin-left: 20px;
+  margin-top: -15px;
+}
+
+#kotak_list {
+  border: 2px solid white;
+  width: 350px;
+  height: 180px;
+  margin: 10px 10px 0px 400px;
+}
+
+#about {
+  border: 2px solid white;
+  width: 820px;
+  height: 100px;
+  margin: 30px 0px 0px 40px;
+}
+
+#about2 {
+  margin-top: -15px;
+}
+
+#keterampilan {
+  width: 800px;
+  height: 120px;
+  margin: 30px 0px 0px 30px;
+}
+
+#keterampilan2 {
+  margin-left: 10px;
+  margin-top:  -20px;
+}
+
+#gallery {
+  width: 820px;
+  margin: 0px 0px 0px 40px;
+}
